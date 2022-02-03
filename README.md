@@ -12,8 +12,8 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 - <em> - Emphasized text
 - <mark> - Marked text
 - <small> - Smaller text
-- <del> - Deleted text
-- <ins> - Inserted text
+- <del> Deleted text
+- <ins> Inserted text
 - <sub> - Subscript text
 - <sup> - Superscript text
 # HTML Comments
