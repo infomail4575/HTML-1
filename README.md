@@ -39,9 +39,9 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 ## HTML iframes
 
 ## Block Elements
-'''<p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, <dl>, <pre>, <hr/>, <blockquote>, and <address>''' 
+<!-- <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, <dl>, <pre>, <hr/>, <blockquote>, and <address>--> 
 ## Inline Elements
-###### <b>, <i>, <u>, <em>, <strong>, <sup>, <sub>, <big>, <small>, <li>, <ins>, <del>, <code>, <cite>, <dfn>, <kbd>, and <var>
+<!--<b>, <i>, <u>, <em>, <strong>, <sup>, <sub>, <big>, <small>, <li>, <ins>, <del>, <code>, <cite>, <dfn>, <kbd>, and <var>-->
 ## HTML Entities
 ## HTML Symbols
 ## HTML5 Audio & Video
