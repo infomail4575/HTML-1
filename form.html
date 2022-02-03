@@ -1,0 +1,74 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="#" method="post">
+        First Name : <input type="text" name="fname"> <hr>
+        Second Name : <input type="text" name="lname"> <hr>
+        Email : <input type="email" name="email"> <hr>
+        Password : <input type="password" name="pass"><hr>
+        Age : <input type="number" max="100" min="1" name="age"><hr>
+        Gender : <input type="radio" name="gen" value="male">Male
+        <input type="radio" name="gen" value="female">Female <hr>
+        Year <select name="year" id="#" size="2">
+            <option >2000</option>
+            <option >2001</option>
+            <option >2002</option>
+            <option >2003</option>
+            <option>2004</option>
+            <option >2005</option>
+        </select>
+
+        <input type="submit" name="" value="SEND">
+
+    </form>
+
+    <hr>
+    <hr>
+    <form action="" method="post">
+        <fieldset>
+        <legend>HTML FORM</legend>
+        <label for="name">Name:</label><input type="text" name="fname"
+        id="name" autocomplete="off">
+        <hr>
+        <label for="age">Age :</label><input type="number" name="age" min="0" max="100">
+        <hr>
+        <label for="email">Email :</label><input type="email" name="email" id="email">
+        <hr>
+        <label for="password">Password :</label><input type="password" name="password" id="password">
+        <hr>
+
+        Price: <input type="range" name="price">
+        Domain : <input type="url" name="domain">
+        Time : <input type="time" name="time">
+        Week : <input type="week" name="week">
+        <input type="button" name="button" value="OK">
+
+    </fieldset>
+
+    </form>
+
+    <form action="https://www.google.com/search" target="_blank">
+        <fieldset>
+        <legend>Google search</legend>
+        <input type="text" name="q">
+        <input type="submit" name="" value="search">
+
+    </fieldset>
+    </form>
+    
+    <form action="https://www.youtube.com/results?search_query" target="_blank">
+        <fieldset>
+        <legend>Youtube search</legend>
+        <input type="text" name="search_query">
+        <input type="submit" name="" value="search">
+
+    </fieldset>
+    </form>
+    
+</body>
+</html>
