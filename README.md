@@ -6,16 +6,16 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 # HTML Attributes
 # HTML Headings
 # HTML Text Formatting
-- <b> - Bold text
-- <strong> - Important text
-- <i> - Italic text
-- <em> - Emphasized text
-- <mark> - Marked text
-- <small> - Smaller text
+- <b> Bold text
+- <strong> Important text
+- <i> Italic text
+- <em> Emphasized text
+- <mark> Marked text
+- <small> Smaller text
 - <del> Deleted text
 - <ins> Inserted text
-- <sub> - Subscript text
-- <sup> - Superscript text
+- <sub> Subscript text
+- <sup> Superscript text
 # HTML Comments
 # HTML Lists
 - Ordered HTML
@@ -39,9 +39,9 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 - robots
 # HTML iframes
 # Block Elements
-- <p>,<h1>,<h2>,<h3>,<h4>,<h5>,<h6>,<ul>,<ol>,<dl>,<pre>,<hr/>,<blockquote>,and<address>
+# <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, <dl>, <pre>, <hr/>, <blockquote>, and <address>
 # Inline Elements
-- <b>,<i>,<u>,<em>,<strong>,<sup>,<sub>,<big>,<small>,<li>,<ins>,<del>,<code>,<cite>,<dfn>,<kbd>,and<var>
+# <b>, <i>, <u>, <em>, <strong>, <sup>, <sub>, <big>, <small>, <li>, <ins>, <del>, <code>, <cite>, <dfn>, <kbd>, and <var>
 # HTML Entities
 # HTML Symbols
 # HTML5 Audio & Video
